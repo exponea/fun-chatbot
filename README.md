@@ -6,20 +6,21 @@ BusinessInsider has publsihed [an article](http://www.businessinsider.com/chatbo
 So we have built it, pardon - her. Her name is Joana and is a grand daughter of Elisa born in 1966. She has some skills of psychoterapist and arguing with her is a bit tricky ..
 Have fun. 
 
-Try it online(https://conversation.exponea.com/joana)
+Try it [online](https://conversation.exponea.com/joana).
 
 #### Coders
 
+To compile CCSS to CSS install Compass and run:
 compress compile . 
 
 #### Hiring corner
 
-Exponea is looking for talented for coders and [AI developers](https://exponea.com/careers/).
+Exponea is hiring talented coders and [AI developers](https://exponea.com/careers/). Can you train this bot to become a CEO?
 
 #### Credits
 
-Eliza in JS - http://nlp-addiction.com/chatbot/eliza/
+[Eliza in JavaScript](http://nlp-addiction.com/chatbot/eliza/)
 
-Chat UI - http://codepen.io/supah/pen/jqOBqp (MIT licensed)
+[Simple Chat UI](http://codepen.io/supah/pen/jqOBqp) by Fabio Ottaviani
 
 
